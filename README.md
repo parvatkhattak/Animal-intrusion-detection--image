@@ -21,9 +21,16 @@ This image classification system is designed to detect the presence of elephants
 
 ## Installation
 
+
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/parvatkhattak/elephant-image-detection.git
    cd elephant-image-detection
 
+2. Install dependencies
+
+3. Run the project
+```bash
+python main.py
+```
